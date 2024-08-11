@@ -1,3 +1,3 @@
-# html_demo1
+# react_demo1
 <br>
 Author-Satyapal Singh
